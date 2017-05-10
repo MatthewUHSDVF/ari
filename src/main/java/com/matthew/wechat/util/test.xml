@@ -1,0 +1,11 @@
+<ap>
+    <drugNum>2</drugNum>
+    <drug1>
+        <localCode>111</localCode>
+        <appAmt>11111</appAmt>
+    </drug1>
+    <drug2>
+        <localCode>222</localCode>
+        <appAmt>2222</appAmt>
+    </drug2>
+</ap>
